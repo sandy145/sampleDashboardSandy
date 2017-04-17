@@ -1,0 +1,595 @@
+
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>BOMART FARMS</title>
+    <!-- Bootstrap Core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom Fonts -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+    <!-- Theme CSS -->
+    <link href="css/agency.css" rel="stylesheet">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<html lang="en" !DOCTYPE>
+<body id="page-top" class="index">
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="../startbootstrap-agency-gh-pages/bomart.html">Bomart1</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="../startbootstrap-agency-gh-pages/products.html">Products</a></li>
+                <!--<li><a href="#">Page 1</a></li>
+                <li><a href="#">Page 2</a></li>
+                <li><a href="#">Page 3</a></li>-->
+            </ul>
+        </div>
+    </nav>
+    
+
+                
+                <!-- Header -->
+                <header>
+                    <div class="container">
+                        <div class="intro-text">
+                            <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                                <div class="intro-heading">Bomarts</div>
+                            </a>
+                        </div>
+                    </div>
+                </header>
+
+                <!-- Services Section -->
+                <!-- Portfolio Grid Section -->
+                <section id="portfolio" class="bg-light-gray">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12 text-center">
+
+
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4 col-sm-6 portfolio-item" style="border-radius:190px;">
+                                <a href="../startbootstrap-agency-gh-pages/products.html" class="portfolio-link" data-toggle="modal">
+                                    <div class="portfolio-hover">
+                                        <div class="portfolio-hover-content">
+                                            <i class="fa fa-plus fa-3x"></i>
+                                        </div>
+                                    </div>
+                                    <img src="img/mango.jpg" class="img-responsive" alt="">
+                                </a>
+                                <div class="portfolio-caption">
+                                    <h4>Products</h4>
+
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 portfolio-item">
+                                <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                                    <div class="portfolio-hover">
+                                        <div class="portfolio-hover-content">
+                                            <i class="fa fa-plus fa-3x"></i>
+                                        </div>
+                                    </div>
+                                    <img src="img/mango.jpg" class="img-responsive" alt="">
+                                </a>
+                                <div class="portfolio-caption">
+                                    <h4>About Us </h4>
+
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 portfolio-item">
+                                <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+                                    <div class="portfolio-hover">
+                                        <div class="portfolio-hover-content">
+                                            <i class="fa fa-plus fa-3x"></i>
+                                        </div>
+                                    </div>
+                                    <img src="img/mango.jpg" class="img-responsive" alt="">
+                                </a>
+                                <div class="portfolio-caption">
+                                    <h4>Team</h4>
+
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 portfolio-item">
+                                <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+                                    <div class="portfolio-hover">
+                                        <div class="portfolio-hover-content">
+                                            <i class="fa fa-plus fa-3x"></i>
+                                        </div>
+                                    </div>
+                                    <img src="img/mango.jpg" class="img-responsive" alt="">
+                                </a>
+                                <div class="portfolio-caption">
+                                    <h4>Services</h4>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-sm-6 portfolio-item">
+                                <a href="https://form.jotform.com/guest_70485983922064/cv-submission" target="_blank" class="portfolio-link" data-toggle="modal">
+                                    <div class="portfolio-hover">
+                                        <div class="portfolio-hover-content">
+                                            <i class="fa fa-plus fa-3x"></i>
+                                        </div>
+                                    </div>
+                                    <img src="img/mango.jpg" class="img-responsive" alt="">
+                                </a>
+                                <div class="portfolio-caption">
+                                    <h4>Employment </h4>
+                                </div>
+                            </div><div class="col-md-4 col-sm-6 portfolio-item">
+                                <a href="https://form.jotform.com/guest_70485983922064/cv-submission" target="_blank"  class="portfolio-link" data-toggle="modal">
+                                    <div class="portfolio-hover">
+                                        <div class="portfolio-hover-content">
+                                            <i class="fa fa-plus fa-3x"></i>
+                                        </div>
+                                    </div>
+                                    <img src="img/mango.jpg" class="img-responsive" alt="">
+                                </a>
+                                <div class="portfolio-caption">
+                                    <h4>Gallery</h4>
+                                </div>
+                            </div>
+                        
+                        </div>
+                    </div>
+                </section>
+
+                <!-- About Section -->
+                <!-- Team Section -->
+                <!-- Clients Aside -->
+                <!-- Contact Section -->
+
+
+                <footer>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <span class="copyright">Copyright © Your Website 2016</span>
+                            </div>
+                            <div class="col-md-4">
+                                <ul class="list-inline social-buttons">
+                                    <li>
+                                        <a href="#"><i class="fa fa-twitter"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="fa fa-facebook"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="fa fa-linkedin"></i></a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-md-4">
+                                <ul class="list-inline quicklinks">
+                                    <li>
+                                        <a href="#">Privacy Policy</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Terms of Use</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </footer>
+
+                <!-- Portfolio Modals -->
+                <!-- Use the modals below to showcase details about your portfolio projects! -->
+                <!-- Portfolio Modal 1 -->
+                <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true" style="display: none;">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="close-modal" data-dismiss="modal">
+                                <div class="lr">
+                                    <div class="rl">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-8 col-lg-offset-2">
+                                        <div class="modal-body">
+                                            <!-- Project Details Go Here -->
+                                            <h2>Products</h2>
+                                            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                            <img class="img-responsive img-centered" src="img/mango.jpg" alt="">
+                                            <p>
+                                                Varieties in production are Keith, Kent and Palmer. Supply is from May to July. It is possible to have production in April in the Northern region of Ghana and December to February of the following year in the Southern part of Ghana and Bomarts has plans to prolong its supply by taking advantage of this natural potential.
+
+                                                Production site is located in the middle of the Volta Region of Ghana, at a village called Tafi Abuipe near Kpando.
+                                            </p>
+                                            <p>
+                                                <!--<strong>Want these icons in this portfolio item sample?</strong>You can download 60 of them for free, courtesy of <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">RoundIcons.com</a>, or you can purchase the 1500 icon set <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">here</a>.</p>-->
+                                                <!--<ul class="list-inline">
+                                                    <li>Date: July 2014</li>
+                                                    <li>Client: Round Icons</li>
+                                                    <li>Category: Graphic Design</li>
+                                                </ul>-->
+                                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Portfolio Modal 2 -->
+                <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true" style="display: none;">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="close-modal" data-dismiss="modal">
+                                <div class="lr">
+                                    <div class="rl">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-12 text-center">
+                                        <h2 class="section-heading">About</h2>
+                                        <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <ul class="timeline">
+                                            <li>
+                                                <div class="timeline-image">
+                                                    <img class="img-circle img-responsive" src="img/about/1.jpg" alt="">
+                                                </div>
+                                                <div class="timeline-panel">
+                                                    <div class="timeline-heading">
+                                                        <h4>1985</h4>
+                                                        <h4 class="subheading">Bomarts Farms Limited was established</h4>
+                                                    </div>
+                                                    <div class="timeline-body">
+                                                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li class="timeline-inverted">
+                                                <div class="timeline-image">
+                                                    <img class="img-circle img-responsive" src="img/about/2.jpg" alt="">
+                                                </div>
+                                                <div class="timeline-panel">
+                                                    <div class="timeline-heading">
+                                                        <h4>2001</h4>
+                                                        <h4 class="subheading">Becomes incoparated</h4>
+                                                    </div>
+                                                    <div class="timeline-body">
+                                                        <p class="text-muted"> produce and sell fresh pineapples and mangoes to the local and international markets. Bomarts has two different sites where the various farms are located. Production of pineapple is sited between Greater Accra and Central Regions where a Four Thousand (4,000) acre land is being cultivated for MD2, Smooth cayenne and Sugar loaf pineapples. An Eight Hundred (800) acre land sited at Tafi Abuife in the Volta Region which is also used in the production of mangoes. </p>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="timeline-image">
+                                                    <img class="img-circle img-responsive" src="img/about/3.jpg" alt="">
+                                                </div>
+                                                <div class="timeline-panel">
+                                                    <div class="timeline-heading">
+                                                        <h4>1st July, 2011 </h4>
+                                                        <h4 class="subheading">Officially commissioned</h4>
+                                                    </div>
+                                                    <div class="timeline-body">
+                                                        <p class="text-muted">some of the pineapples and mangoes are being processed into dried fruit products.</p>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <!--<li class="timeline-inverted">
+                        <div class="timeline-image">
+                            <img class="img-circle img-responsive" src="img/about/4.jpg" alt="">
+                        </div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4>July 2014</h4>
+                                <h4 class="subheading">Phase Two Expansion</h4>
+                            </div>
+                            <div class="timeline-body">
+                                <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                            </div>
+                        </div>
+                    </li>-->
+                                            <!--<li class="timeline-inverted">
+                        <div class="timeline-image">
+                            <h4>Be Part
+                                <br>Of Our
+                                <br>Story!</h4>
+                        </div>
+                    </li>-->
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Portfolio Modal 3 -->
+                <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true" style="display: none;">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="close-modal" data-dismiss="modal">
+                                <div class="lr">
+                                    <div class="rl">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-12 text-center">
+                                        <h2 class="section-heading">Our Amazing Team</h2>
+                                        <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-sm-4">
+                                        <div class="team-member">
+                                            <img src="img/dan.jpg" class="img-responsive img-circle" alt="">
+                                            <h4>Dan</h4>
+                                            <p class="text-muted">title</p>
+                                            <ul class="list-inline social-buttons">
+                                                <li>
+                                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                                </li>
+                                                <li>
+                                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                                </li>
+                                                <li>
+                                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="team-member">
+                                            <img src="img/dan.jpg" class="img-responsive img-circle" alt="">
+                                            <h4>Dan</h4>
+                                            <p class="text-muted">title</p>
+                                            <ul class="list-inline social-buttons">
+                                                <li>
+                                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                                </li>
+                                                <li>
+                                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                                </li>
+                                                <li>
+                                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="team-member">
+                                            <img src="img/dan.jpg" class="img-responsive img-circle" alt="">
+                                            <h4>Dan</h4>
+                                            <p class="text-muted">title</p>
+                                            <ul class="list-inline social-buttons">
+                                                <li>
+                                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                                </li>
+                                                <li>
+                                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                                </li>
+                                                <li>
+                                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-8 col-lg-offset-2 text-center">
+                                        <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Portfolio Modal 4 -->
+                <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true" style="display: none;">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="close-modal" data-dismiss="modal">
+                                <div class="lr">
+                                    <div class="rl">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-8 col-lg-offset-2">
+                                        <div class="modal-body">
+                                            <!-- Project Details Go Here -->
+                                            <h2>Services</h2>
+                                            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                            <img class="img-responsive img-centered" src="img/mango.jpg" alt="">
+                                            <p>
+                                                Varieties in production are Keith, Kent and Palmer. Supply is from May to July. It is possible to have production in April in the Northern region of Ghana and December to February of the following year in the Southern part of Ghana and Bomarts has plans to prolong its supply by taking advantage of this natural potential.
+
+                                                Production site is located in the middle of the Volta Region of Ghana, at a village called Tafi Abuipe near Kpando.
+                                            </p>
+                                            <p>
+                                                <!--<strong>Want these icons in this portfolio item sample?</strong>You can download 60 of them for free, courtesy of <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">RoundIcons.com</a>, or you can purchase the 1500 icon set <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">here</a>.</p>-->
+                                                <!--<ul class="list-inline">
+                                                    <li>Date: July 2014</li>
+                                                    <li>Client: Round Icons</li>
+                                                    <li>Category: Graphic Design</li>
+                                                </ul>-->
+                                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Portfolio Modal 5 -->
+                <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true" style="display: none;">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="close-modal" data-dismiss="modal">
+                                <div class="lr">
+                                    <div class="rl">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-8 col-lg-offset-2">
+                                        <div class="modal-body">
+                                            <!-- Project Details Go Here -->
+                                            <h2>Employment</h2>
+                                            <form action="//submit.form" id="EmploymentApplication100" method="post" onsubmit="return ValidateForm(this);">
+                                                <script type="text/javascript">
+                                                    function ValidateForm(frm) {
+                                                        if (frm.First_Name.value == "") { alert('First name is required.'); frm.First_Name.focus(); return false; }
+                                                        if (frm.Last_Name.value == "") { alert('Last name is required.'); frm.Last_Name.focus(); return false; }
+                                                        if (frm.Email_Address.value == "") { alert('Email address is required.'); frm.Email_Address.focus(); return false; }
+                                                        if (frm.Email_Address.value.indexOf("@") < 1 || frm.Email_Address.value.indexOf(".") < 1) { alert('Please enter a valid email address.'); frm.Email_Address.focus(); return false; }
+                                                        if (frm.Position.value == "") { alert('Position is required.'); frm.Position.focus(); return false; }
+                                                        if (frm.Phone.value == "") { alert('Phone is required.'); frm.Phone.focus(); return false; }
+                                                        return true;
+                                                    }
+                                                </script>
+                                                <table border="0" cellpadding="5" cellspacing="0">
+                                                    <tr>
+                                                        <td style="width: 50%">
+                                                            <label for="First_Name"><b>First name *</b></label><br />
+                                                            <input name="First_Name" type="text" maxlength="50" style="width: 260px" />
+                                                        </td>
+                                                        <td style="width: 50%">
+                                                            <label for="Last_Name"><b>Last name *</b></label><br />
+                                                            <input name="Last_Name" type="text" maxlength="50" style="width: 260px" />
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan="2">
+                                                            <label for="Email_Address"><b>Email *</b></label><br />
+                                                            <input name="Email_Address" type="text" maxlength="100" style="width: 535px" />
+                                                        </td>
+                                                    </tr>
+                                                    <tr></tr>
+                                                    <tr>
+                                                        <td colspan="2">
+                                                            <label for="Location"><b>Location *</b></label><br />
+                                                            <input name="Applicant's Location" type="text" maxlength="100" style="width: 535px" />
+                                                        </td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <td>
+                                                            <label for="Phone"><b>Phone *</b></label><br />
+                                                            <input name="Phone" type="text" maxlength="50" style="width: 260px" />
+                                                        </td>
+
+                                                    </tr>
+
+
+                                                    <tr>
+                                                        <td colspan="2">
+                                                            <label for="Interest"><b>Tell us something interesting about your self</b></label><br />
+                                                            <textarea name="Interest" rows="7" cols="40" style="width: 535px"></textarea>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan="2" style="text-align: center;">
+                                                            <div style="float: right"> <a href="https://www.100forms.com" id="lnk100" title="form to email">form to email</a></div>
+                                                            <script src="https://www.100forms.com/js/FORMKEY:B5Y7DSHH6G2U/Sandyabrah.sa@gmail.com" type="text/javascript"></script>
+                                                            <input name="skip_submit" type="submit" value="Send Application" />
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </form>
+                                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Portfolio Modal 6 -->
+                <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="close-modal" data-dismiss="modal">
+                                <div class="lr">
+                                    <div class="rl">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-8 col-lg-offset-2">
+                                        <div class="modal-body">
+                                            <!-- Project Details Go Here -->
+                                            <h2>Gallery</h2>
+                                            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                            <img class="img-responsive img-centered" src="img/mango.jpg" alt="">
+                                            <p>
+                                                Varieties in production are Keith, Kent and Palmer. Supply is from May to July. It is possible to have production in April in the Northern region of Ghana and December to February of the following year in the Southern part of Ghana and Bomarts has plans to prolong its supply by taking advantage of this natural potential.
+
+                                                Production site is located in the middle of the Volta Region of Ghana, at a village called Tafi Abuipe near Kpando.
+                                            </p>
+                                            <p>
+                                                <!--<strong>Want these icons in this portfolio item sample?</strong>You can download 60 of them for free, courtesy of <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">RoundIcons.com</a>, or you can purchase the 1500 icon set <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">here</a>.</p>-->
+                                                <!--<ul class="list-inline">
+                                                    <li>Date: July 2014</li>
+                                                    <li>Client: Round Icons</li>
+                                                    <li>Category: Graphic Design</li>
+                                                </ul>-->
+                                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- jQuery -->
+                <script src="vendor/jquery/jquery.min.js"></script>
+
+                <!-- Bootstrap Core JavaScript -->
+                <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+                <!-- Plugin JavaScript -->
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+
+                <!-- Contact Form JavaScript -->
+                <script src="js/jqBootstrapValidation.js"></script>
+                <script src="js/contact_me.js"></script>
+
+                <!-- Theme JavaScript -->
+                <script src="js/agency.min.js"></script>
+
+
+
+
+</body>
+</html>
